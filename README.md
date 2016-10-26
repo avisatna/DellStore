@@ -1,2 +1,2 @@
 # DellStore
-Dell Hackathon
+Dell Hackathon Bangalore
