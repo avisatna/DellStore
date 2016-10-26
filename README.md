@@ -1,2 +1,2 @@
 # DellStore
-Dell Hackathon Bangalore
+Ecommerce application for Dell Hackathon, Bangalore
